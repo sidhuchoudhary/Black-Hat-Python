@@ -26,8 +26,8 @@ resume = None
 target_url = "http://192.168.112.131/administrator/index.php"
 target_post = "http://192.168.112.131/administrator/index.php"
 
-username_field = "username"
-password_field = "pswd"
+username_field = "choudharysardar957@gmail.com"
+password_field = "80947750"
 
 success_check = "Administration - Control Panel"
 
